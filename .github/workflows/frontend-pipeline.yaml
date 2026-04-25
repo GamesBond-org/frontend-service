@@ -1,4 +1,4 @@
-name: Microservice CI pipeline
+name: Microservice CI Pipeline
 
 on:
   push:
